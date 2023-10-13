@@ -1,4 +1,4 @@
-# GitHub Setup
+-# GitHub Setup
 It defines multiple endpoints for handling name manipulation in a MySQL database, with credentials for database connectivity and exception handling. Responses are consistently formatted as JSON, and the Slim application listens for incoming HTTP requests.
 
 
